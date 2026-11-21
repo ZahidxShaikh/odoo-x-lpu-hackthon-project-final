@@ -1,0 +1,15 @@
+.git
+.env
+.env.*
+!.env.example
+node_modules
+.pylibs
+.venv
+dist
+build
+coverage
+.pytest_cache
+__pycache__
+*.py[cod]
+*.log
+data/*.db*
